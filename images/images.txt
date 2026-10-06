@@ -1,0 +1,25 @@
+IMAGE EDITORS (SOFTWARES)
+
+GIMP, Photoshop
+
+FREE STOCK IMAGES
+
+Unsplash, Pexels
+Pixabay, Libreshot
+Wikimedia Commons
+
+PAID STOCK IMAGES
+
+iStockPhoto, DepositPhotos, 
+Rawpixel, ShutterStock
+
+
+---
+
+src = "foto" "url"
+
+alt = "descrição"
+
+
+
+

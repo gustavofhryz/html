@@ -1,0 +1,20 @@
+HTML- CSS IDs / class
+
+HTML id ="principal"| CSS #  - id#-> somente um elemento
+
+HTML class ="destaque"| CSS . - class.-> vários elementos              
+
+CSS: 
+
+h1#principal 
+{ text- align: center;
+background-color: #;
+color: white; }
+
+class="basico","destaque"
+
+h2
+."a"
+color
+."b"
+color

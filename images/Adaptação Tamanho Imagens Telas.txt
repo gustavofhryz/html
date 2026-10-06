@@ -1,0 +1,14 @@
+<picture>
+<source media="(max-width: 750px)" srcset="imagens/foto-p.png" type="image/png">
+<source media="(max-width: 1050px)" srcset="imagens/foto-m.png" type="image/png">
+<img src="imagens/foto-g.png" alt="Imagem Flexível">
+</picture>
+
+<source> 
+
+media = TAMANHO MÁXIMO a ser considerado para carregar a imagem indicada no atributo srcset
+
+srcset = vai configurar o NOME da imagem que será carregada quando o tamanho indicado for atingido
+
+type = MEDIA TYPE da imagem que usamos
+

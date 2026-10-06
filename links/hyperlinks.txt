@@ -1,0 +1,41 @@
+hyperlinks:
+
+<a href="url" target="_" rel="">Txt </a>
+
+<body>
+<h1> "" </h1>
+<p> "" <a href="URL" target="_blank" rel="external"> "" </a></p>
+
+<a href="url" hreflang="en">
+    " " website
+</a>
+
+_blank _self _top _parent 
+
+rel - next / prev / author / external / nofollow
+
+-------------------------------------------------------------------
+
+link interno
+
+<a href="pagina2.html" target="_self" rel="next">
+Continuar navegando no site
+</a>
+
+link externo
+
+<a href="google.com" target="_blank" rel="external">
+Abrir google em outra janela
+</a>
+
+--------------------------------------------------------------------
+
+criar página em uma pasta
+
+<p>Acesse a minha <a href="notícias/pag002.html" rel="next" target="_self">página de notícias</a></p>
+
+--------------------------------------------------------------------
+
+./    ../
+
+linux shortchuts for folders

@@ -1,0 +1,19 @@
+imgs - google images - tools - creative commons license ( direitos autorais )
+
+google imagens ( direitos de uso )
+liçença creative commons 
+
+O que significam os símbolos
+• BY (Atribuição): Você deve dar crédito ao autor original.
+• NC (Uso Não Comercial): Você não pode usar a obra para fins comerciais.
+• ND (Sem Obras Derivadas): Você não pode alterar ou transformar a obra.
+• SA (Compartilhamento pela mesma licença): Você deve licenciar novas criações sob os mesmos termos da obra original.
+
+Tipos principais de licenças
+• CC BY: A mais livre; permite qualquer uso desde que cite o autor.
+• CC BY-SA: Permite uso e adaptação comercial, exigindo a mesma licença (usada pela Wikipédia).
+• CC BY-ND: Permite compartilhar, mas sem alterações e com créditos.
+• CC BY-NC: Permite adaptação, mas apenas para fins não comerciais.
+• CC BY-NC-SA: Permite adaptações não comerciais com a mesma licença.
+• CC BY-NC-ND: A mais restritiva; proíbe alterações e uso comercial.
+• CC0: Domínio público total, sem nenhuma restrição.

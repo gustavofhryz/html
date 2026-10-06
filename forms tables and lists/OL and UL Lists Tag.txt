@@ -1,0 +1,34 @@
+Ordered Lists and Unordered Lists
+( opcional config type da tag )
+<ol type="1"> <ol type="A">
+<ul type="disc" </ul> padrão • 123,abc
+
+--------------------------- type="disc","circle","square", "A", "1" 
+
+OL ( Ordered List )
+
+<ol> 
+<li> "1" </li>
+<li> "2" </li>
+</ol>
+
+UL ( Unordered List )
+
+<ul> 
+<li> "1" </li>
+<li> "2" </li>
+</ul>
+
+
+---------------------------
+
+<ol>
+      <li>"Item 1"</li>
+      <li>"Item 2"</li>
+      <ol type="a">
+           <li>"Item 2.1"</li>
+           <li>"Item 2.2"</li>
+      </ol>
+      <li>"Item 3</li>
+      <li"Item 4</li>
+</ol>

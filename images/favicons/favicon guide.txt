@@ -1,0 +1,28 @@
+favicon:
+
+https://www.iconarchive.com/
+
+https://favicon.io/
+
+https://favicon.io/favicon-converter/
+
+https://www.favicon.cc/
+
+Download / Converter PNG > ICO
+
+Extrair tudo ( descompactar )
+
+Salvar pasta projeto atual VS Code
+
+-------------------
+code
+
+<link> link:favicon
+--
+
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial scale=1.0">
+ <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+ <title>testando favicon</title>
+</head>

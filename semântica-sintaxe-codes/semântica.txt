@@ -1,0 +1,39 @@
+html tags ( atualizações tags obsoletas W3C ) 
+autosave-wordwrap-lang-utf8
+semântica:
+
+h1 h2 h3 hierarquia de títulos
+
+<strong> </strong> ; <b> </b>
+
+<ins> </ins> / <u> </u> 
+
+<em> </em> / <i> </i>
+
+<strong><em>
+
+<big> </big> <small> </small>
+
+<address> </address> / <del> / <sub> <sup>
+
+<code> </code> / <pre><code> </code></pre>
+
+<body bgcolor="blue"> / <marquee>
+
+<style> mark { background-color limegreen; } </style> / <mark> </mark>
+
+EXEMPLO:
+
+<h2> tech </h2>
+
+<p> Link: </p>
+
+<blockquote cite="link">
+google.com
+</blockquote>
+
+<p> </p> / <q> </q> / <blockquote> </blockquote> / <blockquote cite
+
+<p> Estudo <abbr title="Hyper Text Markup Language">HTML</abbr> para criar sites. </p>
+
+ctrl shift p - wrap

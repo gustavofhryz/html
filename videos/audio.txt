@@ -1,0 +1,23 @@
+youtube studio
+biblioteca de áudio
+filtros - atribuição não necessária
+
+<audio src="folder/audioname.mp3" controls autoplay></audio>
+
+formatos MP3 OGG WAV
+
+<audio>
+<source src="folder/audioname.mp3" type="audio/mpeg">
+<source src="folder/audioname.ogg" type="audio/ogg">
+<source src="folder/audioname.wav" type="audio/wav">
+<p> Infelizmente seu navegador não consegue reproduzir áudio. 
+<a href="folder/audioname.mp3"> Clique aqui para baixar o arquivo MP3</a></p>
+</audio>
+
+controls - apresenta o player na tela
+
+preload = metadata
+x auto
+x none
+
+<audio preload="metadata" autoplay controls loop>

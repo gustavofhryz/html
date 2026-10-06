@@ -1,0 +1,33 @@
+imagem
+
+<img src="." alt=".">
+
+favicon
+
+<link> link>favicon""
+
+significado
+
+<abbr title="significado">"SIGLA"</abbr>
+
+hyperlinks 
+
+<a href="." target="." rel=".">Descrição </a>
+
+hyperlinks downloads
+
+<a href="." download="." type=".">Descrição </a>
+
+<pre> <code>
+<code> 
+exemplo inline 
+<p> para mudar a cor do texto, use a propriedade <code>color</code> no CSS.</p>
+
+<blockquote cite="https://www.website.com">
+para citar textos externos
+
+----------------------------------------------------
+
+
+
+

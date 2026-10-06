@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+body { background-image: linear-gradient(to right, pink, white);
+
+h1 {color:blueviolet}
+
+p {color: rgb(8, 8, 8)} 
+
+}

@@ -1,0 +1,15 @@
+HTML5 Grouping Tags
+
+<style>
+body { font-family
+       background-color
+       margin
+       padding
+       text-align }
+header
+nav
+main
+section
+article
+article>aside
+footer

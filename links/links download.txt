@@ -1,0 +1,11 @@
+links for downloads
+
+https://www.iana.org/assignments/media-types
+
+(create folder)
+
+<a href="livro/meulivro.pdf" download="meulivro.pdf" 
+type="application/pdf">Baixar o livro em PDF</a>
+
+<a href="livro/meulivro.zip" download="meulivro.zip"
+type="application/zip">Livro compactado em ZIP</a>

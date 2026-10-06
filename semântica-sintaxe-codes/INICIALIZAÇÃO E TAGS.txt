@@ -1,0 +1,24 @@
+códigos marcações tags html 
+
+create folder open vs code select new file index.html !
+
+TAGS html lang head utf-8 title body h1 hr p br img src fk 
+
+IMGS VIDEOS ETC. VERIF RESOLUÇÃO E TAMANHO ARQUIVO
+
+Símbolos &reg &copy &trade &euro &pound &yen &cent &Delta &uparrow
+
+
+folder names ex : midia/ 
+sem acentos e minúsculo
+
+--
+navegador
+ctrl u
+see website codes
+- inspecionar google chrome
+-> devtools ( on your website )
+--
+light websites
+website structure
+goals design area
